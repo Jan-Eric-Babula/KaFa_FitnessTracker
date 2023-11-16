@@ -1,0 +1,17 @@
+.content :is(table, tr, td){
+    border: 1px solid black;
+}
+.content table{
+    width: 100%;
+}
+
+div {
+    width: 100%;
+    align-content: center;
+    text-align: center;
+    min-height: 10px;
+}
+
+body{
+    width:100%;
+}
